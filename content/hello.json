@@ -1,0 +1,121 @@
+[
+  {
+    "title": "새소식",
+    "url": "#",
+    "target": "",
+    "gacode": "",
+    "submenu": [
+      {
+        "title": "공지사항",
+        "url": "https://page.onstove.com/epicseven/kr/list/995?page=1&direction=LATEST",
+        "target": "_blank",
+        "gacode": "공홈_GNB_공지사항/공홈_GNB"
+      },
+      {
+        "title": "업데이트",
+        "url": "https://page.onstove.com/epicseven/kr/list/997?page=1&direction=LATEST",
+        "target": "_blank",
+        "gacode": "공홈_GNB_업데이트/공홈_GNB"
+      }
+    ]
+  },
+  {
+    "title": "가이드",
+    "url": "#",
+    "target": "",
+    "gacode": "",
+    "submenu": [
+      {
+        "title": "전적 검색 (PVP)",
+        "url": "https://epic7.gg.onstove.com/ko/",
+        "target": "_blank",
+        "gacode": "공홈_GNB_전적검색/공홈_GNB"
+      },
+      {
+        "title": "공략도감 (PVE)",
+        "url": "https://epic7.game.onstove.com/guide/home?world=world_kor&lang=ko",
+        "target": "_blank",
+        "gacode": "공홈_GNB_공략도감/공홈_GNB"
+      },
+      {
+        "title": "게임 가이드",
+        "url": "https://page.onstove.com/epicseven/kr/list/1009?page=1&direction=LATEST",
+        "target": "_blank",
+        "gacode": "공홈_GNB_게임가이드/공홈_GNB"
+      }
+    ]
+  },
+  {
+    "title": "커뮤니티",
+    "url": "#",
+    "target": "",
+    "gacode": "",
+    "submenu": [
+      {
+        "title": "자유게시판",
+        "url": "https://page.onstove.com/epicseven/kr/list/1005?page=1&direction=LATEST",
+        "target": "_blank",
+        "gacode": "공홈_GNB_자유게시판/공홈_GNB"
+      },
+      {
+        "title": "기사단모집",
+        "url": "https://page.onstove.com/epicseven/kr/list/1008?page=1&direction=LATEST",
+        "target": "_blank",
+        "gacode": "공홈_GNB_기사단모집/공홈_GNB"
+      },
+      {
+        "title": "팬아트 게시판",
+        "url": "https://page.onstove.com/epicseven/kr/list/1007?page=1&direction=LATEST",
+        "target": "_blank",
+        "gacode": "공홈_GNB_팬아트게시판/공홈_GNB"
+      }
+    ]
+  },
+  {
+    "title": "쿠폰/보상",
+    "url": "#",
+    "target": "",
+    "gacode": "",
+    "submenu": [
+      {
+        "title": "쿠폰 등록",
+        "url": "https://event-epic7.game.onstove.com/coupon",
+        "target": "_blank",
+        "gacode": "공홈_GNB_쿠폰등록/공홈_GNB"
+      },
+      {
+        "title": "트위치 드롭스",
+        "url": "https://event-epic7.game.onstove.com/twitchdrops/index",
+        "target": "_blank",
+        "gacode": "공홈_GNB_트위치드롭스/공홈_GNB"
+      }
+    ]
+  },
+  {
+    "title": "이스포츠",
+    "url": "#",
+    "target": "",
+    "gacode": "",
+    "submenu": [
+      {
+        "title": "월드챔피언십",
+        "url": "https://event-epic7.game.onstove.com/e2023/e7wcbrand",
+        "target": "_blank",
+        "gacode": "공홈_GNB_월드챔피언십/공홈_GNB"
+      },
+      {
+        "title": "크리에이터 대전",
+        "url": "https://youtube.com/playlist?list=PLnG5hsEu9GDK8kXkh4VuoUiQPTRnEO_kI&si=6K7V5SYwvEXYy5fG",
+        "target": "_blank",
+        "gacode": "공홈_GNB_크리에이터대전/공홈_GNB"
+      }
+    ]
+  },
+  {
+    "title": "굿즈",
+    "url": "https://smilegateshop.com/shop/goodsList/003000000000000",
+    "target": "_blank",
+    "gacode": "공홈_GNB_굿즈/공홈_GNB",
+    "submenu": []
+  }
+]
