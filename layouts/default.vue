@@ -10,6 +10,15 @@
         <NuxtLink v-slot="{ navigate }" custom to="/about">
           <q-btn stretch flat label="About" no-caps @click="navigate" />
         </NuxtLink>
+        <q-separator dark vertical />
+        <!-- <q-btn stretch flat label="Youtube" no-caps @click="moveYoutube" /> -->
+        <button @click="moveYoutube">유튜브</button>
+
+        <NuxtLink v-slot="{ navigate }" custom to="/admin">
+          <q-separator dark vertical />
+
+          <q-btn stretch flat label="Admin" no-caps @click="navigate" />
+        </NuxtLink>
       </q-toolbar>
     </q-header>
     <q-page-container :style="pageContainerStyle">
@@ -23,4 +32,13 @@ const pageContainerStyle = computed(() => ({
   maxWidth: '1080px',
   margin: '0 auto',
 }));
+
+const moveYoutube = async () => {
+  await navigateTo('https://www.youtube.com', {
+    external: true,
+    open: {
+      target: '_blank',
+    },
+  });
+};
 </script>
