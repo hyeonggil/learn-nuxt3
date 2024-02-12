@@ -103,7 +103,7 @@ definePageMeta({
   key: (route) => route.fullPath,
   title: 'Ny home page',
   keepalive: true,
-  alias: ['/lecture/:coutseSlug'],
+  // alias: ['/lecture/:coutseSlug'],
   // layout: 'same-layout',
 });
 
